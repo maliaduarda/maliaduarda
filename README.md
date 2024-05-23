@@ -1,4 +1,11 @@
-## Hi there 👋
+## oi
+meu nome e maria eduarda
+
+Estou estudando na alura
+
+Estou me desenvolvendo na linguagem java script
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **maliaduarda/maliaduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
